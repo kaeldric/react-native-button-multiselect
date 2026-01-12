@@ -4211,12 +4211,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:19.1.0":
-  version: 19.1.0
-  resolution: "@types/react@npm:19.1.0"
+"@types/react@npm:19.2.3":
+  version: 19.2.3
+  resolution: "@types/react@npm:19.2.3"
   dependencies:
     csstype: ^3.0.2
-  checksum: 7dd7e021897509a68672ab38c268d2f1f519306ade66cc12ffce4dd46e9d2b4224ab49e0b1191b17ac5eceafc65d76e987d6c5b0679224ddbb46f8debce5decc
+  checksum: e2efd57bb2ec0b8aaf2dd95e649add38c837b8def3378ff8a7b6ac19fba2e00a673727c3bbeadd12c637f1f4d068824a736f996e47fa7cd2974c48f5489f4cf1
   languageName: node
   linkType: hard
 
@@ -15762,7 +15762,7 @@ __metadata:
     "@release-it/conventional-changelog": ^5.0.0
     "@testing-library/react-native": ^13.3.3
     "@types/jest": ^28.1.2
-    "@types/react": 19.1.0
+    "@types/react": 19.2.3
     commitlint: ^17.0.2
     del-cli: ^5.0.0
     eslint: ^8.4.1
@@ -15770,10 +15770,10 @@ __metadata:
     eslint-plugin-prettier: ^4.0.0
     jest: ^28.1.1
     prettier: ^2.0.5
-    react: 19.1.0
+    react: 19.2.3
     react-native: 0.81.5
     react-native-builder-bob: ^0.20.0
-    react-test-renderer: ^19.1.0
+    react-test-renderer: 19.2.3
     release-it: ^15.0.0
     typescript: ^5.0.2
   peerDependencies:
@@ -15925,7 +15925,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-test-renderer@npm:^19.1.0":
+"react-test-renderer@npm:19.2.3":
   version: 19.2.3
   resolution: "react-test-renderer@npm:19.2.3"
   dependencies:
@@ -15946,10 +15946,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:19.1.0":
-  version: 19.1.0
-  resolution: "react@npm:19.1.0"
-  checksum: c0905f8cfb878b0543a5522727e5ed79c67c8111dc16ceee135b7fe19dce77b2c1c19293513061a8934e721292bfc1517e0487e262d1906f306bdf95fa54d02f
+"react@npm:19.2.3":
+  version: 19.2.3
+  resolution: "react@npm:19.2.3"
+  checksum: 506e369ae13cb46b7f303c0201aadf856642f482cdf5b1c3730c3a6d1762fd5a3ae1dd31196a4686bfbbe56456dcd0c48a4656c75cbcb45620e3028c54789ae9
   languageName: node
   linkType: hard
 
