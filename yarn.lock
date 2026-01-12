@@ -4197,13 +4197,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prop-types@npm:*":
-  version: 15.7.15
-  resolution: "@types/prop-types@npm:15.7.15"
-  checksum: 31aa2f59b28f24da6fb4f1d70807dae2aedfce090ec63eaf9ea01727a9533ef6eaf017de5bff99fbccad7d1c9e644f52c6c2ba30869465dd22b1a7221c29f356
-  languageName: node
-  linkType: hard
-
 "@types/qs@npm:*":
   version: 6.14.0
   resolution: "@types/qs@npm:6.14.0"
@@ -4218,23 +4211,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-native@npm:0.70.0":
-  version: 0.70.0
-  resolution: "@types/react-native@npm:0.70.0"
+"@types/react@npm:19.1.0":
+  version: 19.1.0
+  resolution: "@types/react@npm:19.1.0"
   dependencies:
-    "@types/react": "*"
-  checksum: 0150a5520925ae009e49eb81e4ca528548ec118b95c363516362bba39ffc068f0df97c43e4543c10ac8f514a42e48cad312c9da49e37257c62180b36f921fa84
-  languageName: node
-  linkType: hard
-
-"@types/react@npm:17.0.21":
-  version: 17.0.21
-  resolution: "@types/react@npm:17.0.21"
-  dependencies:
-    "@types/prop-types": "*"
-    "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: a590bd2e50e4ec0b1957388e198cf248bac3051e525e036901dea10f7d12203bf1c58350aa899e66494cbf8a60ee56402522273866c29748217f72552bb27d04
+  checksum: 7dd7e021897509a68672ab38c268d2f1f519306ade66cc12ffce4dd46e9d2b4224ab49e0b1191b17ac5eceafc65d76e987d6c5b0679224ddbb46f8debce5decc
   languageName: node
   linkType: hard
 
@@ -4242,13 +4224,6 @@ __metadata:
   version: 0.12.0
   resolution: "@types/retry@npm:0.12.0"
   checksum: 61a072c7639f6e8126588bf1eb1ce8835f2cb9c2aba795c4491cf6310e013267b0c8488039857c261c387e9728c1b43205099223f160bb6a76b4374f741b5603
-  languageName: node
-  linkType: hard
-
-"@types/scheduler@npm:*":
-  version: 0.26.0
-  resolution: "@types/scheduler@npm:0.26.0"
-  checksum: 295ede5e7f991c7c52f9ed8e58d3076526be9a560e59ae11bf1c1414f9755a17bd750f3bfed4657b118283d1eb082bb27dcbe2eadf335a982b0c3b6a562771c2
   languageName: node
   linkType: hard
 
@@ -15787,8 +15762,7 @@ __metadata:
     "@release-it/conventional-changelog": ^5.0.0
     "@testing-library/react-native": ^13.3.3
     "@types/jest": ^28.1.2
-    "@types/react": ~17.0.21
-    "@types/react-native": 0.70.0
+    "@types/react": 19.1.0
     commitlint: ^17.0.2
     del-cli: ^5.0.0
     eslint: ^8.4.1
@@ -15796,10 +15770,10 @@ __metadata:
     eslint-plugin-prettier: ^4.0.0
     jest: ^28.1.1
     prettier: ^2.0.5
-    react: 19.2.3
+    react: 19.1.0
     react-native: 0.81.5
     react-native-builder-bob: ^0.20.0
-    react-test-renderer: ^19.2.3
+    react-test-renderer: ^19.1.0
     release-it: ^15.0.0
     typescript: ^5.0.2
   peerDependencies:
@@ -15951,7 +15925,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-test-renderer@npm:^19.2.3":
+"react-test-renderer@npm:^19.1.0":
   version: 19.2.3
   resolution: "react-test-renderer@npm:19.2.3"
   dependencies:
@@ -15972,10 +15946,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:19.2.3":
-  version: 19.2.3
-  resolution: "react@npm:19.2.3"
-  checksum: 506e369ae13cb46b7f303c0201aadf856642f482cdf5b1c3730c3a6d1762fd5a3ae1dd31196a4686bfbbe56456dcd0c48a4656c75cbcb45620e3028c54789ae9
+"react@npm:19.1.0":
+  version: 19.1.0
+  resolution: "react@npm:19.1.0"
+  checksum: c0905f8cfb878b0543a5522727e5ed79c67c8111dc16ceee135b7fe19dce77b2c1c19293513061a8934e721292bfc1517e0487e262d1906f306bdf95fa54d02f
   languageName: node
   linkType: hard
 
